@@ -8,7 +8,7 @@ public class Cheers {
                 {
                         char ch = str.charAt(i);
                         if(ch == 'A' || ch == 'E' || ch == 'F' || ch == 'H' ||ch == 'I'|| ch == 'L' || ch == 'M'
-                        || ch == 'N' || ch == 'O' || ch == 'R')
+                        || ch == 'N' || ch == 'O' || ch == 'R' || ch == 'X' || ch =='S')
                         {
                                 System.out.println("Give me an " + str.charAt(i) + ": " + str.charAt(i) + "!");
 
